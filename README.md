@@ -41,15 +41,15 @@ desafios práticos, indo dos tipos primitivos até coleções e Streams.
 
 | # | Tema | Conteúdos principais | Status |
 |---|---|---|---|
-| 01 | [Variáveis e Tipos](./01-variaveis-e-tipos/) | Tipos primitivos, casting, `String` e operadores | ✅ Em andamento |
-| 02 | [Condicionais `if` e `else`](./02-condicionais-if-else/) | Estruturas de decisão e operadores lógicos | ⏳ Pendente |
-| 03 | [Laços `for` e `while`](./03-lacos-for-while/) | Repetição e iteração controlada | ⏳ Pendente |
-| 04 | [Strings e Regex](./04-strings-e-regex/) | Manipulação de texto, `Pattern` e `Matcher` | ⏳ Pendente |
-| 05 | [Data e Hora](./05-data-e-hora/) | `LocalDate`, `LocalDateTime` e formatação | ⏳ Pendente |
-| 06 | [Orientação a Objetos](./06-orientacao-a-objetos/) | Classes, atributos, métodos e construtores | ⏳ Pendente |
-| 07 | [Encapsulamento](./07-encapsulamento/) | Getters, setters e modificadores de acesso | ⏳ Pendente |
-| 08 | [Herança, Polimorfismo e Interfaces](./08-heranca-polimorfismo-interfaces/) | Reuso, abstração e contratos | ⏳ Pendente |
-| 09 | [Coleções e Streams](./09-colecoes-e-streams/) | `List`, `Set`, `Map` e API de Streams | ⏳ Pendente |
+| 01 | [Variáveis e Tipos](01-variaveis-e-tipos/) | Tipos primitivos, casting, `String` e operadores | ✅ Em andamento |
+| 02 | [Condicionais `if` e `else`](02-condicionais-if-else/) | Estruturas de decisão e operadores lógicos | ⏳ Pendente |
+| 03 | [Laços `for` e `while`](03-lacos-for-while/) | Repetição e iteração controlada | ⏳ Pendente |
+| 04 | [Strings e Regex](04-strings-e-regex/) | Manipulação de texto, `Pattern` e `Matcher` | ⏳ Pendente |
+| 05 | [Data e Hora](05-data-e-hora/) | `LocalDate`, `LocalDateTime` e formatação | ⏳ Pendente |
+| 06 | [Orientação a Objetos](06-orientacao-a-objetos/) | Classes, atributos, métodos e construtores | ⏳ Pendente |
+| 07 | [Encapsulamento](07-encapsulamento/) | Getters, setters e modificadores de acesso | ⏳ Pendente |
+| 08 | [Herança, Polimorfismo e Interfaces](08-heranca-polimorfismo-interfaces/) | Reuso, abstração e contratos | ⏳ Pendente |
+| 09 | [Coleções e Streams](09-colecoes-e-streams/) | `List`, `Set`, `Map` e API de Streams | ⏳ Pendente |
 
 ## 🗂️ Estrutura do projeto
 
