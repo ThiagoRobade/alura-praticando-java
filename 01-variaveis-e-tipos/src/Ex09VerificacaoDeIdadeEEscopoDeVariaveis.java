@@ -1,4 +1,4 @@
-public class Exercicio09 {
+public class Ex09VerificacaoDeIdadeEEscopoDeVariaveis {
     public static void main(String[] args) {
         int idade = 17;
         String mensagem;

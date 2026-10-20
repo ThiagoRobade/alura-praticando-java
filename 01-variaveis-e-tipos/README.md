@@ -13,7 +13,7 @@ Escreva um programa que declare variáveis para o seu nome, idade, altura e se v
 Praticar a declaração e inicialização de variáveis com diferentes tipos primitivos (`String`, `int`, `double`, `boolean`).
 
 **💻 Solução:**
-[Ver código](src/Exercicio01.java)
+[Ver código](src/Ex01DeclarandoValoresAVariaveis.java)
 
 ---
 
@@ -26,7 +26,7 @@ Você está desenvolvendo um sistema de gerenciamento de estoque que exige que a
 Praticar o casting explícito de tipos primitivos (conversão de `double` para `int`).
 
 **💻 Solução:**
-[Ver código](src/Exercicio02.java)
+[Ver código](src/Ex02ConversaoDeTipos.java)
 
 ---
 
@@ -39,7 +39,7 @@ Você está desenvolvendo um aplicativo que calcula a média de notas dos alunos
 Praticar a declaração de múltiplas variáveis, operações aritméticas básicas e formatação de saída com números decimais.
 
 **💻 Solução:**
-[Ver código](src/Exercicio03.java)
+[Ver código](src/Ex03PrimitivosEmAcao.java)
 
 ---
 
@@ -52,7 +52,7 @@ Você está desenvolvendo um sistema de monitoramento de temperatura. Crie um pr
 Praticar a conversão entre tipos primitivos e a aplicação de fórmulas matemáticas em Java.
 
 **💻 Solução:**
-[Ver código](src/Exercicio04.java)
+[Ver código](src/Ex04ConversaoDeTemperatura.java)
 
 ---
 
@@ -65,7 +65,7 @@ Crie um programa de cadastro de livros que armazene em variáveis: título, auto
 Praticar o uso de tipos primitivos (`int`, `double`, `char`) em conjunto com `String` e estruturas de decisão.
 
 **💻 Solução:**
-[Ver código](src/Exercicio05.java)
+[Ver código](src/Ex05CadastroDeLivros.java)
 
 ---
 
@@ -83,7 +83,7 @@ Escreva um programa que classifique um produto e exiba a categoria correspondent
 Praticar o uso de estruturas condicionais (`if/else`) para tomada de decisão com base em variáveis.
 
 **💻 Solução:**
-[Ver código](src/Exercicio06.java)
+[Ver código](src/Ex06ClassificacaoPorCategoria.java)
 
 ---
 
@@ -96,7 +96,7 @@ Você está desenvolvendo um jogo e quer um programa que determine se um número
 Praticar o operador de módulo (`%`) e estruturas condicionais.
 
 **💻 Solução:**
-[Ver código](src/Exercicio07.java)
+[Ver código](src/Ex07ParOuImpar.java)
 
 ---
 
@@ -109,7 +109,7 @@ Você está organizando uma viagem internacional e precisa converter uma quantia
 Praticar a declaração de variáveis do tipo `double` e operações de divisão.
 
 **💻 Solução:**
-[Ver código](src/Exercicio08.java)
+[Ver código](src/Ex08ConversorDeMoedas.java)
 
 ---
 
@@ -122,7 +122,7 @@ Você precisa corrigir um código que verifica se uma pessoa é maior de idade. 
 Entender o conceito de escopo de variáveis em Java e como corrigir erros de compilação.
 
 **💻 Solução:**
-[Ver código](src/Exercicio09.java)
+[Ver código](src/Ex09VerificacaoDeIdadeEEscopoDeVariaveis.java)
 
 ---
 
@@ -142,6 +142,6 @@ Você está planejando uma viagem de carro e deseja calcular quantos quilômetro
 Praticar a realização de múltiplos cálculos, o uso de variáveis e a exibição de resultados formatados.
 
 **💻 Solução:**
-[Ver código](src/Exercicio10.java)
+[Ver código](src/Ex10PlanejandoUmaViagemConsumoEAutonomia.java)
 
 ---

@@ -1,4 +1,4 @@
-public class Exercicio03 {
+public class Ex03PrimitivosEmAcao {
     public static void main(String[] args) {
 
         double nota1 = 7.5;

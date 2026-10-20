@@ -1,6 +1,6 @@
 
 
-public class Exercicio01 {
+public class Ex01DeclarandoValoresAVariaveis {
     public static void main(String[] args) {
 
         String nome = "Thiago";

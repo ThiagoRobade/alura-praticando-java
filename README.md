@@ -78,7 +78,6 @@ Cada exercício possui uma classe Java independente. Para compilar e executar um
 exercício do primeiro módulo:
 
 ```bash
-javac 01-variaveis-e-tipos/src/Exercicio01.java
-java -cp 01-variaveis-e-tipos/src Exercicio01
+javac 01-variaveis-e-tipos/src/Ex01DeclarandoValoresAVariaveis.java
+java -cp 01-variaveis-e-tipos/src Ex01DeclarandoValoresAVariaveis
 ```
-

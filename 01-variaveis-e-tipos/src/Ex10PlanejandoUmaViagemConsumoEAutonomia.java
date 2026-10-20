@@ -1,4 +1,4 @@
-public class Exercicio10 {
+public class Ex10PlanejandoUmaViagemConsumoEAutonomia {
     public static void main(String[] args) {
 
         double consumoMedio = 12.5;

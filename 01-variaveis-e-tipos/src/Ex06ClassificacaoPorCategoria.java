@@ -1,4 +1,4 @@
-public class Exercicio06 {
+public class Ex06ClassificacaoPorCategoria {
     public static void main(String[] args) {
 
         double preco = 150.00;

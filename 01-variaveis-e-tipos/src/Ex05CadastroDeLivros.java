@@ -1,4 +1,4 @@
-public class Exercicio05 {
+public class Ex05CadastroDeLivros {
     public static void main(String[] args) {
 
         String titulo = "O Pequeno Príncipe";

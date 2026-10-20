@@ -1,4 +1,4 @@
-public class Exercicio07 {
+public class Ex07ParOuImpar {
     public static void main(String[] args) {
 
         int numero = 7;

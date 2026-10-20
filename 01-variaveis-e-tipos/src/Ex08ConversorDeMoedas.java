@@ -1,4 +1,4 @@
-public class Exercicio08 {
+public class Ex08ConversorDeMoedas {
     public static void main(String[] args) {
 
         double valorReais = 451.50;
