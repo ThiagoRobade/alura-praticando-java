@@ -43,8 +43,8 @@ desafios práticos, indo dos tipos primitivos até coleções e Streams.
 |---|---|---|---|
 | 01 | [Variáveis e Tipos](01-variaveis-e-tipos/) | Tipos primitivos, casting, `String` e operadores | ✅ Finalizado |
 | 02 | [Condicionais `if` e `else`](02-condicionais-if-else/) | Estruturas de decisão e operadores lógicos | ✅ Finalizado |
-| 03 | [Laços `for` e `while`](03-lacos-for-while/) | Repetição e iteração controlada | 👨🏽‍💻 Resolvendo |
-| 04 | [Strings e Regex](04-strings-e-regex/) | Manipulação de texto, `Pattern` e `Matcher` | ⏳ Pendente |
+| 03 | [Laços `for` e `while`](03-lacos-for-while/) | Repetição e iteração controlada | ✅ Finalizado |
+| 04 | [Strings e Regex](04-strings-e-regex/) | Manipulação de texto, `Pattern` e `Matcher` | 👨 💻 Resolvendo|
 | 05 | [Data e Hora](05-data-e-hora/) | `LocalDate`, `LocalDateTime` e formatação | ⏳ Pendente |
 | 06 | [Orientação a Objetos](06-orientacao-a-objetos/) | Classes, atributos, métodos e construtores | ⏳ Pendente |
 | 07 | [Encapsulamento](07-encapsulamento/) | Getters, setters e modificadores de acesso | ⏳ Pendente |
